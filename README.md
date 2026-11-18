@@ -13,10 +13,10 @@ An isolated Kali Linux and Metasploitable2 lab documenting reconnaissance, servi
 
 [View the project](https://github.com/hussam-ahmeed/home-lab-pentest)
 
-### Personal Cybersecurity Portfolio
-A static portfolio website built with HTML and CSS to present cybersecurity interests, projects, and technical progress.
+### Hussam Ahmed Portfolio Website
+The primary live portfolio website built with HTML and CSS to present cybersecurity interests, projects, and technical progress.
 
-[View the project](https://github.com/hussam-ahmeed/Personal-Cybersecurity-Portfolio-Website)
+[View the primary project](https://github.com/hussam-ahmeed/Hussam-Ahmed)
 
 ### Python Console Games
 Beginner-friendly Python programs demonstrating classes, loops, input validation, and simple game logic.
