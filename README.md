@@ -4,24 +4,24 @@ Cybersecurity learner and developer focused on practical security labs, web deve
 
 I use GitHub to document what I build, what I learn, and how I solve problems.
 
-[Portfolio Website](https://hussam-ahmeed.github.io/Hussam-Ahmed/) · [GitHub](https://github.com/hussam-ahmeed)
+[Portfolio Website](https://hussam-ahmeed.github.io/hussam-ahmed-portfolio/) · [GitHub](https://github.com/hussam-ahmeed)
 
 ## Featured Projects
 
 ### Home Lab Penetration Testing
 An isolated Kali Linux and Metasploitable2 lab documenting reconnaissance, service enumeration, vulnerability validation, and responsible security reporting.
 
-[View the project](https://github.com/hussam-ahmeed/home-lab-pentest)
+[View the project](https://github.com/hussam-ahmeed/kali-metasploitable-lab)
 
 ### Hussam Ahmed Portfolio Website
 The primary live portfolio website built with HTML and CSS to present cybersecurity interests, projects, and technical progress.
 
-[View the primary project](https://github.com/hussam-ahmeed/Hussam-Ahmed)
+[View the primary project](https://github.com/hussam-ahmeed/hussam-ahmed-portfolio)
 
 ### Python Console Games
 Beginner-friendly Python programs demonstrating classes, loops, input validation, and simple game logic.
 
-[View the project](https://github.com/hussam-ahmeed/Hussam-Aldeek)
+[View the project](https://github.com/hussam-ahmeed/python-console-games)
 
 ## Skills
 
