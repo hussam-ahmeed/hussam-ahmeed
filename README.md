@@ -31,6 +31,20 @@ A live portfolio built with HTML and CSS to present my cybersecurity interests, 
 
 **Tools:** Kali Linux · Nmap · Netcat · Metasploit Framework · VMware Workstation
 
+
+## Certificates
+
+Cisco Networking Academy:
+
+- Ethical Hacker (December 2025)
+- Introduction to Cybersecurity
+- CCNA: Introduction to Networks (June 2026)
+
+## In progress
+
+- CCNA: Enterprise Networking, Security, and Automation (CCNA3), until December 2026
+- Python Essentials 1
+
 ## Currently Learning
 
 - Writing clearer security lab reports
